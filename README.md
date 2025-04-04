@@ -2,9 +2,11 @@
 
 ## IMPORTANT NOTE: A HIGHIER VERSION NUMBER DOES NOT MEAN IT'S BETTER. IT ONLY SIGNIFIES A DIFFERENT METHOD.
 
-One of the last Perfect Warp script made around October 2023
+It is important that adjust the path to the music file accordingly.
 
-Manual warp script with a timer-based formula that was made a joke using a beat drop to indicate when to warp. https://www.youtube.com/watch?v=CQJeLEvHMtM
+One of the last Perfect Warp script made around October 2023.
+
+Manual warp script with a timer-based formula that was made a joke using a beat drop to indicate when to warp. https://www.youtube.com/watch?v=CQJeLEvHMtM.
 
 The script is fairly simple. You can use the tools provided in the Perfect Warp 3.5 release.
 
