@@ -1,5 +1,8 @@
 # Roblox Galaxy Perfect Warp 7.0
 
+# BEING CAUGHT USING THIS SCRIPT AND DISTRIBUTING IS A BANNABLE OFFENSE. 
+## Learn how to stay hidden at [Roblox-Galaxy-Xanbelor-s-Perfect-Warp-6.1.1](https://github.com/Aerospace911/Roblox-Galaxy-Xanbelor-s-Perfect-Warp-6.1.1)
+
 ## IMPORTANT NOTE: A HIGHIER VERSION NUMBER DOES NOT MEAN IT'S BETTER. IT ONLY SIGNIFIES A DIFFERENT METHOD.
 
 It is important that adjust the path to the music file accordingly.
